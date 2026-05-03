@@ -21,23 +21,6 @@ Program sederhana berbasis C++ untuk simulasi pemesanan ramen di sebuah restoran
 * Callback Function
 * Dynamic Memory Allocation (`new` & `delete`)
 
-## ▶️ Cara Menjalankan
-
-1. Compile program:
-
-   ```
-   g++ main.cpp -o ramen
-   ```
-2. Jalankan:
-
-   ```
-   ./ramen
-   ```
-
-## 📸 Preview
-
-(Tambahkan screenshot program jika ada)
-
 ## 👨‍💻 Author
 
-Nama: (isi nama kamu)
+Nama: Muhammad Haryo 
